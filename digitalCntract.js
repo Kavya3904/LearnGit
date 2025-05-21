@@ -1,6 +1,5 @@
 const word = "digital contract";
-const fake = "word change"
-
+const rest = "word change"
 console.log(word);
-console.log(fake);
+console.log(rest);
 
